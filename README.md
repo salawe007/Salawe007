@@ -7,7 +7,9 @@ inputting the following command will display the current version of Git installe
 
 *__CONTENT OF THIS PROJECT__*
 1. DOWNLOADING AND INSTALL GIT AND GIT CLI
-2. DETAILS OF SOME USEFUL COMMMANDS SUCH AS:
+2. DETAILS OF SOME USEFUL COMMMANDS SUCH AS
+   Untrack
+   
 
 
 
